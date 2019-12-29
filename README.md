@@ -1,6 +1,6 @@
 # 《计算机程序的结构和解释》公开课 翻译项目
 
-<img height="20px" src="https://user-images.githubusercontent.com/895809/47278305-6d793380-d5fa-11e8-89f2-7c8862027997.png" alt="MIT OCW"> [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)　　　　　　<img height="20px" src="https://avatars2.githubusercontent.com/u/36149682?s=200&v=4" alt="HIT FoOTOo"> [哈尔滨工业大学 FoOTOo实验室](https://github.com/FoOTOo)　　　　　　<img height="20px" src="https://user-images.githubusercontent.com/895809/47278313-7cf87c80-d5fa-11e8-9ca8-0f5f19c1d31e.jpg" alt="HIT PT"> 哈尔滨工业大学 清影PT
+<img height="20px" src="https://user-images.githubusercontent.com/895809/47278305-6d793380-d5fa-11e8-89f2-7c8862027997.png" alt="MIT OCW"> [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)　　　　　　<img height="20px" src="https://avatars2.githubusercontent.com/u/36149682?s=200&v=4" alt="HIT IBMTC"> [哈尔滨工业大学 IBM技术中心](https://github.com/HIT-IBMTC)　　　　　　<img height="20px" src="https://user-images.githubusercontent.com/895809/47278313-7cf87c80-d5fa-11e8-9ca8-0f5f19c1d31e.jpg" alt="HIT PT"> [哈尔滨工业大学 清影PT](https://hitpt.org/index.php)
 
 <p align="center">
   <img src="http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/wizard.jpg" alt="SICP"/>
@@ -25,12 +25,23 @@ SICP的习题解答可参考 SchemeWiki 的 [SICP Solutions](http://community.sc
 
 ## 视频地址
 
-+ [主页](https://learningsicp.github.io/) (由[@Rezhe](https://github.com/rezhe)制作)
-+ [中译版视频专辑列表（优酷）](https://v.youku.com/v_show/id_XNTEzMDAyMTU2.html?f=18958522)
-+ [中译版视频专辑列表（YouTube）](https://www.youtube.com/playlist?list=PLkEwH_Z2WOlppy8oUfrGwFVlOuKyo3RO_)
-+ [中译版视频专辑列表（bilibili）](https://www.bilibili.com/video/av8515129/) （由热心网友维护）
-+ [百度网盘SICP文件夹](https://pan.baidu.com/s/1o78bsYA)
-+ [Google Drive SICP 文件夹](https://drive.google.com/drive/folders/12yryTD9HPpa5zjIpTmYawl6-8VrISxIE?usp=sharing)（由[@Terence](https://github.com/TerenceFeng)维护）
+<table>
+  <tr>
+    <th  colspan="5"><a href="https://learningsicp.github.io/">🏠 主页</a></th>
+  </tr>
+  <tr>
+    <td>🎥 播放列表</td>
+    <td><a href="https://v.youku.com/v_show/id_XNTEzMDAyMTU2.html?f=18958522">优酷</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLkEwH_Z2WOlppy8oUfrGwFVlOuKyo3RO_">YouTube</a></td>
+    <td><a href="https://www.bilibili.com/video/av8515129/">BiliBili</a></td>
+    <td><a href="https://www.acfun.cn/v/ac10517890">AcFun</a></td>
+  </tr>
+  <tr>
+    <td >📂 网盘</td>
+    <td colspan="2"><a href="https://pan.baidu.com/s/1o78bsYA">百度网盘</a></td>
+    <td colspan="2"><a href="https://drive.google.com/drive/folders/12yryTD9HPpa5zjIpTmYawl6-8VrISxIE?usp=sharing">Google Drive</a></td>
+  </tr>
+</table>
 
 > **注意**  
 > * 由于 MKV 格式的视频文件需要额外安装字幕，我们不再提供 MKV 格式的视频；
